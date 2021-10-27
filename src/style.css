@@ -1,0 +1,16 @@
+h1,
+p {
+  font-family: Lato;
+}
+.errorBorder {
+  border: 3px solid red;
+}
+.errorText {
+  color: red;
+}
+.betterview {
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
